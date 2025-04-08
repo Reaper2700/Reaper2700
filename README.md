@@ -20,7 +20,7 @@
 ##
 
 <div>
-  <a href="www.linkedin.com/in/rafael-pereira-4b5399232">
+  <a href="https://www.linkedin.com/in/rafael-pereira-4b5399232">
     <img alt="Linkdin"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
