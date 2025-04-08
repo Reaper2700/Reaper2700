@@ -7,10 +7,10 @@
 </div>
 
 <div style="display: inline-block;"><br>
-  <img align="center" alt="c-language" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img align="center" alt="cplusplus-language" height="30" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="react" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="python-language" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="javascript-language" height="30" width="40"
