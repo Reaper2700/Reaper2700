@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://beacons.ai/reaper2700"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reaper2700&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaper2700&layout=compact&langs_count-16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reaper2700&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper2700&layout=compact&langs_count-16&theme=dracula"/>
 </div>
 
 <div style="display: inline-block;"><br>
