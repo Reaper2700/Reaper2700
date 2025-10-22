@@ -4,9 +4,6 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reaper2700&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600"/>
-
   <!-- Profile Summary Details -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reaper2700&theme=darcula" alt="GitHub Profile Summary"/>
 
