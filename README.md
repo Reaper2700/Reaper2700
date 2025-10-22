@@ -3,14 +3,19 @@
 ---
 
 <div align="center">
+
   <!-- GitHub Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reaper2700&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper2700&layout=compact&langs_count=16&theme=dracula&cache_seconds=3600"/>
-</div>
 
-<div align="center">
-  <!-- Profile Summary Card -->
+  <!-- Profile Summary Details -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reaper2700&theme=darcula" alt="GitHub Profile Summary"/>
+
+  <!-- Most Commit Language -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reaper2700&theme=darcula" alt="Most Commit Language"/>
+
+  <!-- General Stats -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reaper2700&theme=darcula" alt="GitHub Stats Summary"/>
+
 </div>
 
 ---
